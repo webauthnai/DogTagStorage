@@ -1,4 +1,4 @@
-# 🐶🏷️ DogTagStorage
+# 🐶🪪 DogTagStorage
 
 [![Swift](https://img.shields.io/badge/Swift-5.9+-orange.svg)](https://swift.org)
 [![Platform](https://img.shields.io/badge/Platform-macOS%2012%2B%20%7C%20iOS%2015%2B-blue.svg)](https://developer.apple.com/swift/)
